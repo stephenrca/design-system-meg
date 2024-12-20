@@ -1,0 +1,150 @@
+body {
+  --url-BANNIERE_ENTREPRISE_LOGO: url('/static/images/BANNIERE_ENTREPRISE_LOGO.svg');
+  --url-BANNIERE_ENTREPRISE_LOGO_MOBILE: url('/static/images/BANNIERE_ENTREPRISE_LOGO_MOBILE.svg');
+  --background_menu_mobile: var(--primary-500);
+  --color_menu_mobile: var(--primary-contrast-500);
+}
+
+/*--------------------------------------------------------------------------
+Sous Domaine : lagestiongirafe
+Nom du thÃ¨me : lagestiongirafe-2
+Type : CSS VARIABLES
+Date gÃ©nÃ©ration : 2023-03-08T08:37:06.714Z
+Version gÃ©nÃ©rateur : 1.4.0
+--------------------------------------------------------------------------*/
+
+body {
+  --primary-50: #fff6e0;
+  --primary-contrast-50: black;
+  --primary-100: #ffe9b3;
+  --primary-contrast-100: black;
+  --primary-200: #ffda80;
+  --primary-contrast-200: black;
+  --primary-300: #fecb4d;
+  --primary-contrast-300: black;
+  --primary-400: #fec026;
+  --primary-contrast-400: black;
+  --primary-500: #feb500;
+  --primary-contrast-500: black;
+  --primary-600: #feae00;
+  --primary-contrast-600: black;
+  --primary-700: #fea500;
+  --primary-contrast-700: black;
+  --primary-800: #fe9d00;
+  --primary-contrast-800: black;
+  --primary-900: #fd8d00;
+  --primary-contrast-900: black;
+  --primary-A100: #ffffff;
+  --primary-contrast-A100: black;
+  --primary-A200: #ffffff;
+  --primary-contrast-A200: black;
+  --primary-A400: #ffffff;
+  --primary-contrast-A400: black;
+  --primary-A700: #ffffff;
+  --primary-contrast-A700: black;
+  --secondary-50: #f0f0f0;
+  --secondary-contrast-50: black;
+  --secondary-100: #dadada;
+  --secondary-contrast-100: black;
+  --secondary-200: #c2c2c2;
+  --secondary-contrast-200: black;
+  --secondary-300: #a9a9a9;
+  --secondary-contrast-300: black;
+  --secondary-400: #969696;
+  --secondary-contrast-400: black;
+  --secondary-500: #848484;
+  --secondary-contrast-500: black;
+  --secondary-600: #7c7c7c;
+  --secondary-contrast-600: white;
+  --secondary-700: #717171;
+  --secondary-contrast-700: white;
+  --secondary-800: #676767;
+  --secondary-contrast-800: white;
+  --secondary-900: #545454;
+  --secondary-contrast-900: white;
+  --secondary-A100: #fdeaea;
+  --secondary-contrast-A100: black;
+  --secondary-A200: #ffffff;
+  --secondary-contrast-A200: black;
+  --secondary-A400: #ffffff;
+  --secondary-contrast-A400: black;
+  --secondary-A700: #ffffff;
+  --secondary-contrast-A700: black;
+  --background-base: #f2f2f2;
+  --nav-logo-width: 48px;
+  --complementary-1-color-light: #e7e7e7;
+  --complementary-1-color-light-contrast: black;
+  --complementary-1-color-dark: #c7c7c7;
+  --complementary-1-color-dark-contrast: black;
+  --complementary-1-color: #e0e0e0ff;
+  --complementary-1-color-contrast: black;
+  --complementary-2-color-light: #ece9cd;
+  --complementary-2-color-light-contrast: black;
+  --complementary-2-color-dark: #d1ca91;
+  --complementary-2-color-dark-contrast: black;
+  --complementary-2-color: #e6e2beff;
+  --complementary-2-color-contrast: black;
+  --complementary-3-color-light: #f0eab2;
+  --complementary-3-color-light-contrast: black;
+  --complementary-3-color-dark: #dccd63;
+  --complementary-3-color-dark-contrast: black;
+  --complementary-3-color: #ece49bff;
+  --complementary-3-color-contrast: black;
+  --complementary-4-color-light: #f5ec98;
+  --complementary-4-color-light-contrast: black;
+  --complementary-4-color-dark: #e6d13f;
+  --complementary-4-color-dark-contrast: black;
+  --complementary-4-color: #f2e679ff;
+  --complementary-4-color-contrast: black;
+  --complementary-5-color-light: #faed7d;
+  --complementary-5-color-light-contrast: black;
+  --complementary-5-color-dark: #f2d522;
+  --complementary-5-color-dark-contrast: black;
+  --complementary-5-color: #f8e856ff;
+  --complementary-5-color-contrast: black;
+  --positive-color-light: #fad53b;
+  --positive-color-light-contrast: black;
+  --positive-color-dark: #f4a000;
+  --positive-color-dark-contrast: black;
+  --positive-color: #f9c800;
+  --positive-color-contrast: black;
+  --negative-color-light: #7f7f7f;
+  --negative-color-light-contrast: white;
+  --negative-color-dark: #242424;
+  --negative-color-dark-contrast: white;
+  --negative-color: #595959;
+  --negative-color-contrast: white;
+  --perso-globales-couleurPrimaire: #feb500;
+  --perso-globales-couleurFond: #f2f2f2;
+  --perso-globales-couleurSecondaire: #848484;
+  --perso-banniereEntreprise-couleurFond: #404040;
+  --perso-banniereEntreprise-couleurTexte: white;
+  --perso-banniereEntreprise-slogan: Prenez de la hauteur avec les outils de votre performance;
+  --perso-banniereNavigation-couleurFond: #feea34;
+  --perso-banniereNavigation-couleur1: #e4d011;
+  --perso-banniereNavigation-couleur2: #404040;
+  --perso-tableaux-couleurLigneTotal: #e4e4e4;
+  --perso-tableaux-couleurLigneTotalTexte: #4d4d4d;
+  --perso-widgets-couleurSequence1: #e0e0e0ff;
+  --perso-widgets-couleurSequence2: #e6e2beff;
+  --perso-widgets-couleurSequence3: #ece49bff;
+  --perso-widgets-couleurSequence4: #f2e679ff;
+  --perso-widgets-couleurSequence5: #f8e856ff;
+  --perso-widgets-couleurNegative: #595959;
+  --perso-widgets-couleurPositive: #f9c800;
+  --perso-login-couleurFond: #ffffff;
+  --perso-login-libelleCouleurTexte: #4d4d4d;
+  --perso-login-champCouleurTexte: #4d4d4d;
+  --perso-login-champCouleurFond: #ffffff;
+  --perso-calendrier-couleurSelection: #bababa;
+  --perso-calendrier-couleurSelectionTexte: #404040;
+  --url-LOGIN_FOND: url('/static/images/LOGIN_FOND.png');
+  --url-LOGIN_LOGO: url('/static/images/LOGIN_LOGO.png');
+  --url-MAIL_LOGO: url('/static/images/MAIL_LOGO.png');
+  --url-BANNIERE_ENTREPRISE_LOGO: url('/static/images/BANNIERE_ENTREPRISE_LOGO.png');
+  --url-WIDGET_LOGO: url('/static/images/WIDGET_LOGO.png');
+}
+
+.hello-content {
+  display: none;
+}
